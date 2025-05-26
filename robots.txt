@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /css
+Disallow: /js
+Disallow: /license
+Disallow: /webfonts
+Allow: /
+Allow: /data
+Allow: /images
+Allow: /what
+Allow: /why
+Allow: /how
+Allow: /map
+Allow: /download
+Sitemap: https://sarnet.SignalGap.com/sitemap.xml
